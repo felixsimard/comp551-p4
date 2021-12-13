@@ -1,5 +1,5 @@
 ## COMP 551: Applied Machine Learning
-###P4 - Reproducibility in ML
+### P4 - Reproducibility in ML
 
 ---
 Fall 2021 @ McGill University <br>
@@ -12,7 +12,7 @@ Paper: https://arxiv.org/pdf/2004.07320v3.pdf
 Paper Results Reproduction: <br>
 https://github.com/felixsimard/comp551-p4/blob/main/results_reproduction.ipynb
 
-MNIST MLP Quantization Experiment: <br>
+MNIST Custom MLP Quantization Experiment: <br>
 https://github.com/felixsimard/comp551-p4/blob/main/MNIST_MLP_Quant.ipynb
 
 Quantization Aware Training Experiment: <br>
@@ -36,12 +36,13 @@ To download the fairseq library along with its modules, use the following comman
 Note, you will most likely need to restart your Google Colab runtime once the above packages are downloaded.
 
 ### Additional packages
-`numpy==1.21.4
+```
+numpy==1.21.4
 Pillow==8.4.0
 torch==1.10.0
 torchvision==0.11.1
 typing-extensions==4.0.1
-`
+```
 ---
 
 ## Experiments
