@@ -13,7 +13,7 @@ Paper Results Reproduction: <br>
 https://github.com/felixsimard/comp551-p4/blob/main/results_reproduction.ipynb
 
 MNIST Custom MLP Quantization Experiment: <br>
-https://github.com/felixsimard/comp551-p4/blob/main/MNIST_MLP_Quant.ipynb
+https://github.com/felixsimard/comp551-p4/blob/main/MNIST_Quantization_experiments.ipynb
 
 Quantization Aware Training Experiment: <br>
 https://github.com/felixsimard/comp551-p4/blob/main/Felix_QAT.ipynb
